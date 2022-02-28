@@ -21,13 +21,12 @@ public class Sortnumber {
                 }
             }
         }
-        System.out.println("Ket qua sau khi sap xep : ");
+        System.out.println("Ket qua sau khi sap xep: ");
         for (i = 0; i < num; i++) {
             System.out.print(array[i] + "\t");
         }
         System.out.println();
-        System.out.println("----------------------------");
-      
+        System.out.println("----------------------------");     
     }
 }
     
